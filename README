@@ -1,0 +1,11 @@
+Practice app
+
+Structs running with Tomcat (packaging war, artifact war exploded)
+
+Running by `mvn jetty:run` coudn't started.
+
+http://localhost:8080/struts_example_war_exploded/
+
+Running with war also works.
+
+http://localhost:8080/struts_example_war/index.jsp
